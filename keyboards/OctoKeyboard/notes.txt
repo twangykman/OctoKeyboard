@@ -1,0 +1,10 @@
+Some notes for reproducability
+
+
+
+In main directory:
+utils/new_project.sh <KEYBOARD_NAME>
+
+make OctoKeyboard:default
+
+
